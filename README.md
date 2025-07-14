@@ -15,3 +15,8 @@ Technologies Used
 
 - Python 3.12.5
 - VS Code (recommended)
+simple outputs:-
+<img width="361" height="170" alt="image" src="https://github.com/user-attachments/assets/732db61f-8679-4ff4-b48c-5719d62b71fe" />
+<img width="185" height="124" alt="image" src="https://github.com/user-attachments/assets/d4a07902-3553-4351-a43e-0e43ee9bce12" />
+
+
